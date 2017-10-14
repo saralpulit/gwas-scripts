@@ -42,7 +42,7 @@ The script runs as follows:
    *color: color you want your points plotted in*  
    *xmax: maximum value for the x-axis (and y-axis, as the plot is square)*  
    
-### (6) lambda.R
+#### (6) lambda.R
 A quick script to calculate lambda in your data. Your data must have column "P" containing p-values.
 
 The script runs as follows:
