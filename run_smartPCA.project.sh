@@ -3,6 +3,9 @@
 #$ -S /bin/bash
 #$ -l h_rt=24:00:00
 
+### To run: ./run_smartPCA.project.sh $PED_ROOT
+### $PED_ROOT is the rootname of your plink files
+
 ### Pointers to programs
 CONVERTF_EXEC=/home/software/EIG4.2/bin/convertf
 SMARTPCA_EXEC=/home/software/EIG4.2/bin/smartpca
